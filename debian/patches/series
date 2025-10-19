@@ -1,2 +1,3 @@
 modify_Makefile.patch
 add_-e_option.patch
+apply_test

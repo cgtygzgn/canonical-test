@@ -1,3 +1,4 @@
+testing.sh usr/games
 sl usr/games
 #sl-h usr/games
 debian/man/man6/* usr/share/man/man6

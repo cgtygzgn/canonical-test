@@ -1,3 +1,15 @@
+sl (5.02-0ppa1~jammy2) jammy; urgency=medium
+
+  * fixed install scripts 
+
+ -- cag0 <cagatayguzgun@gmail.com>  Sat, 18 Oct 2025 22:27:20 +0100
+
+sl (5.02-0ppa1~jammy1) jammy; urgency=medium
+
+  * rebuild for launchpad 
+
+ -- cag0 <cagatayguzgun@gmail.com>  Sat, 18 Oct 2025 20:51:17 +0100
+
 sl (5.02-1) unstable; urgency=medium
 
   * [db4aaf1] Add watch file for mtoyoda/sl on GitHub
